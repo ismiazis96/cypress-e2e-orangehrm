@@ -1,0 +1,34 @@
+{
+
+  "name": "cypress-demo-cura",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "test": "cypress open",
+
+    "run": "cypress run"
+
+  },
+
+  "devDependencies": {
+
+    "cypress": "^14.3.0",
+
+    "cypress-xpath": "^2.0.1"
+
+  },
+
+  "dependencies": {
+
+    "dotenv": "^16.5.0"
+
+  }
+
+}
+

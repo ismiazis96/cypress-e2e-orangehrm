@@ -1,0 +1,13 @@
+# Folder node_modules (hasil install npm)
+node_modules/
+
+# File konfigurasi environment
+.env
+
+# Hasil testing dari Cypress
+cypress/videos/
+# cypress/screenshots/
+
+# File log atau cache sementara
+*.log
+.cache/
